@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+pypika
+python-dotenv
+pydantic>=1.10,<2.0
+groq
+fastapi-jwt-auth
+passlib[bcrypt]
