@@ -40,7 +40,7 @@ npm run dev
 
 ## 3. Usage
 - Open [http://localhost:3000](http://localhost:3000) in your browser.
-- Login, generate podcast scripts, and listen to the podcast audio.
+- Login (username: alice, password: secret), generate podcast scripts, and listen to the podcast audio.
 
 ---
 
